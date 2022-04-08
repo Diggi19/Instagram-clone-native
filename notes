@@ -1,0 +1,7 @@
+whenever implementing a Flatlist or scrollable never style the rendering component using percentages '%' give exact width and height
+
+using double negation "!!" this will convert a number return statement to true or false 
+    eg post.comment.length
+        retunrs 0 or 1 which will crash the conditional rendering
+
+        when used !! it will return true or false 
